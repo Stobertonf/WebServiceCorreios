@@ -1,0 +1,10 @@
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\ConsultarCEPs.csproj.AssemblyReference.cache
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBuscaCEPs.resources
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\ConsultarCEPs.csproj.GenerateResource.cache
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\ConsultarCEPs.csproj.CoreCompileInputs.cache
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Ajuda\Projetos\Projetos\Windows_Form\C#\ConsultarCEPs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
